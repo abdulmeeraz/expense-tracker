@@ -20,4 +20,4 @@ It allows users to record and analyze daily expenses with persistent storage.
 
 ## How to Run
 1. Install Python 3
-2. Run:
+2. Run
