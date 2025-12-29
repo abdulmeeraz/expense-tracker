@@ -10,5 +10,11 @@
         "category": "Food",
         "description": "Thumpsup 1lt",
         "date": "2025-12-28"
+    },
+    {
+        "amount": 1300.0,
+        "category": "Food",
+        "description": "Rice bag",
+        "date": "2025-12-29"
     }
 ]
