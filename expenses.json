@@ -17,4 +17,10 @@
         "description": "Rice bag",
         "date": "2025-12-29"
     }
+    {
+        "amount": 5000,
+        "category": "Electronics",
+        "description": "Ear buds",
+        "date": "2026-01-16"
+     }
 ]
